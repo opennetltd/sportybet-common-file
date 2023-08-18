@@ -1,2 +1,2 @@
 # sportybet-common-file
-please DO NOT modify this file in any case!!
+please DO NOT modify CriticalFile in any case!!
